@@ -1,5 +1,5 @@
 # Apple Website
-A visually rich and interactive Apple product showcase built with TailwindCSS, GSAP, and Three.js.
+A visually rich and interactive Apple product showcase built with React, Vite, TailwindCSS, GSAP, and Three.js.
 
 ## Preview
 <picture><img src="applewebsite/Apple Website.gif" width="100%"></picture>
